@@ -11,10 +11,6 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
 x64/
 x86/
 build/
@@ -194,3 +190,5 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+project_ukraine/
